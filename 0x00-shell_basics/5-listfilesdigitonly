@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n -la
+ls -n -la --time=atime --time-style=long-iso --color=auto
