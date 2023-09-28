@@ -1,0 +1,1 @@
+1-first script can prints the absolute path name of the current working directory when executed 
